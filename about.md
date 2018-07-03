@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-John Casey AKA `buildchimp`
+# John Casey (a.k.a `buildchimp`)
 
 ### Professionally
 
@@ -12,7 +12,7 @@ I'm a software engineer trending toward architecture, working on the product bui
 
 ### Personally
 
-I'm a hacker with a 3D printer and just enough knowledge of electronics to start a fire without a soldering iron. I'm interested in hacking everything that looks like it could work a little better than it does. 
+I'm a hacker with a 3D printer and just enough knowledge of electronics to start a fire without a soldering iron. I'm interested in hacking everything that looks like it could work a little better with a little *tweak*. 
 
 I'm passionate about my coffee.  
 
