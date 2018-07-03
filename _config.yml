@@ -84,5 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - _drafts
 
 theme: jekyll-theme-tactile
