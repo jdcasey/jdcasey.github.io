@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+John Casey AKA `buildchimp`
 
-### More Information
+### Professionally
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software engineer trending toward architecture, working on the product build pipeline at Red Hat. I'm interested in all the sexy new things like evolutionary architectures, streaming frameworks, CI/CD (not new, but still), observability, etc. I tend to favor hard engineering topics more than the latest Shiny New Framework. I want to know more about scaling, automating, improving reliability, and reducing support overhead.
 
-### Contact me
+### Personally
 
-[email@domain.com](mailto:email@domain.com)
+I'm a hacker with a 3D printer and just enough knowledge of electronics to start a fire without a soldering iron. I'm interested in hacking everything that looks like it could work a little better than it does. 
+
+I'm passionate about my coffee.  
+
