@@ -1,6 +1,7 @@
 ---
 title: Through a Dashboard Darkly
 categories: indy o11y software architecture
+commentIssueId: 2
 --- 
 
 >The funny thing about reasoning with incomplete or irrelevant information is that it's hard to be objective; it's hard to tell from motivated reasoning and outright justification.
