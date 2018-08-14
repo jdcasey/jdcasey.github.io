@@ -22,6 +22,8 @@ layout: default
   <script type="text/javascript">
 
     function loadComments(data) {
+      console.log("Found " + data.length + " comments.");
+
       for (var i=0; i<data.length; i++) {
         var cuser = data[i].user.login;
         var cuserlink = "https://www.github.com/" + data[i].user.login;
@@ -34,7 +36,7 @@ layout: default
       }
     }
 
-    $.ajax("https://api.github.com/repos/jdcasey/jdcasey.github.io/issues/{{page.commentIssueId}}", {
+    $.ajax("https://api.github.com/repos/jdcasey/jdcasey.github.io/issues/{{page.commentIssueId}}/comments", {
       headers: {Accept: "application/vnd.github.full+json"},
       success: function(msg){
         loadComments(msg);
