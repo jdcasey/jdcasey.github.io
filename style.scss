@@ -267,10 +267,11 @@ nav {
 
   .commentheader {
     margin-top: 10px;
-    background-color: $gray;
+    background-color: #ddd;
   }
 
   .commentheader div {
+    margin-right: 3px;
     display: inline-block;
   }
 
