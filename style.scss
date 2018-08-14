@@ -271,8 +271,12 @@ nav {
   }
 
   .commentheader div {
-    margin-right: 3px;
+    padding-right: 5px;
     display: inline-block;
+  }
+
+  .commentheader a {
+    padding-right: 5px;
   }
 
   .read-more {
